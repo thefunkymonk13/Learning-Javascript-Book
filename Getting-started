@@ -26,3 +26,6 @@
     <script src="main.js"></script>
   </body>
 </html>
+
+5.)Add an HTML canvas element to draw on with:
+<canvas id="mainCanvas"></canvas>
