@@ -1,0 +1,28 @@
+1.) Create an HTML, CSS and JavaScript File
+2.) Create main.js with the following code:
+  (function() {
+    'use strict'
+      // your code will start here...
+      
+      console.log('main.js loaded');
+      
+      // and end here
+}())
+3.)Create the CSS file, main.css with the following code:
+
+  /* Styles go here */
+  
+4.)Create the HTML file called index.html with the following code:
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <h1>My first application</h1>
+    <p>Welcome to <i>Learning JavaScript</i></p>
+    
+    <script src="main.js"></script>
+  </body>
+</html>
